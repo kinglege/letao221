@@ -137,3 +137,9 @@
   height: 400px;
   background-color: red;
 } 
+.table.table-bordered th,
+.table.table-bordered td {
+  text-align: center;
+  /* 表格内容垂直居中 */
+  vertical-align: middle;
+}
