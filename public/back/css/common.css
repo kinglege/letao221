@@ -28,6 +28,9 @@
 .mt_150 {
   margin-top: 150px;
 }
+.mt_20{
+  margin-top: 20px;
+}
 
 /* index */
 .lt_aside{
@@ -86,7 +89,7 @@
   border-left: 3px solid transparent;
 }
 .lt_aside .nav a.current{
-  color:#1D1F21;
+  background-color: #1D1F21;
   border-left:3px solid #069;
 }
 .lt_aside .nav a i{
